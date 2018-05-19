@@ -195,7 +195,7 @@ function logic() {
     "-=[ Sibelon ]=-",
     "..::{ Boss Sibelon }::..",    
     "..::{ Boss Lordakium }::...",
-    "-=[ Blighted Kristallon ]=-",
+
     "..::{ Boss StreuneR }::..",
     "<=< Icy >=>",
     "<=< Ice Meteoroid >=>",
